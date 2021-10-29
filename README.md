@@ -1,4 +1,5 @@
-### Hi there 👋
+![Metrics](https://github.com/moka-ayumu/my-github-user/blob/main/github-metrics.svg)
+<img src="https://github.com/moka-ayumu/moka-ayumu/blob/master/github-metrics.svg" alt="Metrics" width="100%">
 
 <!--
 **moka-ayumu/moka-ayumu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
