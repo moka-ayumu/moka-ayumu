@@ -51,3 +51,5 @@ jobs:
           plugin_wakatime_days: 7
           plugin_wakatime_limit: 5
           plugin_wakatime_sections: time, languages, languages-graphs, editors
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
