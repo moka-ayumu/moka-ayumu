@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2110" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2490" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text,.gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.s .side{background-color:#eb355e26}.contribution.a .side{background-color:#e7bd6926}.contribution.b .side{background-color:#9e91ff26}.contribution.c .side{background-color:#58a6ff26}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.category,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.category{align-items:center;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -2348,6 +2348,297 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 76 commits in
+                                        <span class="repo">moka-ayumu/next.js</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">fix/create-next-app-dependency</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#639bc3a</div>
+                                        <div class="message">Increase concurrency for turbopack test run (#57290)
+
+Aims to reduce run time by leveraging more concurrency
+
+x-ref: https://github.com/vercel/next.js/actions/runs/6618039974/job/17975622987</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1275cff</div>
+                                        <div class="message">Skip i18n-ignore-rewrite-source irrelevant tests with turbopack (#57289)
+
+These tests are expecting files to be written but this isn't the case
+with turbopack for client files.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9f512f1</div>
+                                        <div class="message">React Aliases (#57283)
+
+This adds aliases to the new react packages being used by Next.js.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4661764</div>
+                                        <div class="message">Enhance Buffered Transform Stream (#57267)
+
+This adds some better handling around the buffered transform streams to handle error cases a bit better.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f154bb8</div>
+                                        <div class="message">Revalidate Header Updates (#57162)
+
+Update the revalidate handling to perform the revalidate option coalescing in the render function closer to the render result output. This helps reduce the amount of scope leak from the render.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cc4cceb</div>
+                                        <div class="message">Polish compiling and turbopack logging (#57270)
+
+## Make server info log faster
+
+Change to display the server info earlier before server handler is ready
+
+## Make "compiling" message less laggy.
+
+Change to log the compiling logs as previous timer which trying to skip the logging short-time compiling message makes it bit laggy, so we're removing it for now. Reduce the timer from 3s to 500ms
+
+&lt;img width="360" alt="image" src="https://github.com/vercel/next.js/assets/4800338/19afb2d6-ec42-4a67-b664-60f8c36b5287"&gt;
+
+
+## Remove the turbopack
+
+### Now
+&lt;img width="398" alt="image" src="https://github.com/vercel/next.js/assets/4800338/fb24d83f-66d0-4383-a42b-fdeff4fe223a"&gt;
+
+### Before
+
+&lt;img width="398" alt="image" src="https://github.com/vercel/next.js/assets/4800338/59d6a6f2-32d6-41d1-a80d-12c599165e6a"&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#191faf3</div>
+                                        <div class="message">Import turbo daily integration test workflows (#57083)
+
+As discussed this imports our daily turbo integration tests workflow
+into the Next.js repo</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4e14291</div>
+                                        <div class="message">Move logging option to stable (#56791)
+
+We introduced a data fetching logging before, and the control option was under experimental. After a bit experiments turns out users really loves it. We decide to move it to a stable option.
+
+### Changes
+We're going to move the `logging` option outside of `experimental`, and scope the `fetches` related config under `logging.fetches`.
+
+```js
+// next.config.js
+logging?: {
+    fetches?: {
+      fullUrl?: boolean
+    }
+}
+```</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b384546</div>
+                                        <div class="message">Update Pathname Normalizers (#57161)
+
+This collects some of the request pathname normalization code into some helpers.
+
+Co-authored-by: Zack Tanner &lt;1939140+ztanner@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#799e6ca</div>
+                                        <div class="message">v13.5.7-canary.17</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a255e02</div>
+                                        <div class="message">Simplify iv prefixing of Server Actions encryption (#57274)
+
+Since we have a fixed length of the random bytes prefixed to the iv,
+there's no need to split by `:`.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ab9bada</div>
+                                        <div class="message">chore(export)!: remove `next export` in favor of `output: export` in next.config.js (#57085)
+
+BREAKING CHANGE
+
+Since `next export` has been printing a deprecation warning since https://github.com/vercel/next.js/pull/47376, its safe to remove in semver-major.
+
+The upgrade path is to simply add `output: 'export'` in `next.config.js` - everything will continue to work the same.
+
+This config greatly improves the `next dev` experience today. And in the future, it will improve performance of `next build` because we no longer need to do two passes (build then export).</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7208535</div>
+                                        <div class="message">perf: fix memory leaks in the edge runtime in dev (#57235)
+
+This PR fixes a memory leak when using `next dev` where on HMR, we would always retain the memory associated with the old VM instance, leading to pretty egregious usage of RAM after only a few edits.
+
+The leak itself comes from methods like `setTimeout` and `setInterval` capturing the context in which they were called and somehow never releasing, even if the timeout happened, when running in a Node.js `vm`. This is probably a Node.js bug.
+
+The fix consists of taking ownership of all timeouts and clearing them ourselves manually at the end of each VM lifecycle.
+
+Tested manually:
+- hello world Next.js app with edge runtime
+- triggered hmr 10 times
+- memory usage
+  - base: 400MB
+  -  before: 800MB
+  - after: 400MB</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eb4b41e</div>
+                                        <div class="message">Fix unmatched WebSocket upgrade requests being closed (#57245)
+
+We should not close unmatched sockets as it might be handled by user's server.
+
+Fixes #56996
+Fixes #49334
+Fixes #55299</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4a37c2d</div>
+                                        <div class="message">chore: fix a typo (#57272)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6741575</div>
+                                        <div class="message">Improve encryption of Server Actions closure arguments (#57227)
+
+This change makes sure that the iv of AES-GCM encryption is cryptographically random on each request. Also added a constant prefix as some kind of checksum to ensure the data is not damaged (e.g. wrong key is being used).</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b0e3a67</div>
+                                        <div class="message">Fix relative metadata url resolving on windows (#57265)
+
+x-ref: https://dev.azure.com/nextjs/next.js/_build/results?buildId=71544&amp;view=logs&amp;j=8af7cf9c-43a1-584d-6f5c-57bad8880974&amp;t=7ae70e63-3625-50f4-6764-5b3e72b4bd7a
+
+We need to use poxis join for url pathname
+
+```
+- Expected  - 1
++ Received  + 1
+  Object {
+    "itunes": Object {
+-     "appArgument": "http://test.com/base/test/native/app",
++     "appArgument": "d:\\test\\native\\app",
+    },
+    "metadataBase": "http://test.com/base",
+  }
+  210 |       ]
+  211 |       const metadata = await accumulateMetadata(metadataItems)
+&gt; 212 |       expect(mapUrlsToStrings(metadata)).toMatchObject(
+      |                                          ^
+  213 |         mapUrlsToStrings({
+  214 |           metadataBase: new URL('http://test.com/base'),
+  215 |           itunes: {
+
+```</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e6b103b</div>
+                                        <div class="message">Simplify options passed to createWebpackAliases (#57239)
+
+Reducing the options so it becomes easier to call it outside of
+webpack-config.ts, which would be needed to pass it to Turbopack.
+
+&lt;!-- Thanks for opening a PR! Your contribution is much appreciated.
+To make sure your PR is handled as smoothly as possible we request that
+you follow the checklist sections below.
+Choose the right checklist for the change(s) that you're making:
+
+## For Contributors
+
+### Improving Documentation
+
+- Run `pnpm prettier-fix` to fix formatting issues before opening the
+PR.
+- Read the Docs Contribution Guide to ensure your contribution follows
+the docs guidelines:
+https://nextjs.org/docs/community/contribution-guide
+
+### Adding or Updating Examples
+
+- The "examples guidelines" are followed from our contributing doc
+https://github.com/vercel/next.js/blob/canary/contributing/examples/adding-examples.md
+- Make sure the linting passes by running `pnpm build &amp;&amp; pnpm lint`. See
+https://github.com/vercel/next.js/blob/canary/contributing/repository/linting.md
+
+### Fixing a bug
+
+- Related issues linked using `fixes #number`
+- Tests added. See:
+https://github.com/vercel/next.js/blob/canary/contributing/core/testing.md#writing-tests-for-nextjs
+- Errors have a helpful link attached, see
+https://github.com/vercel/next.js/blob/canary/contributing.md
+
+### Adding a feature
+
+- Implements an existing feature request or RFC. Make sure the feature
+request has been accepted for implementation before opening a PR. (A
+discussion must be opened, see
+https://github.com/vercel/next.js/discussions/new?category=ideas)
+- Related issues/discussions are linked using `fixes #number`
+- e2e tests added
+(https://github.com/vercel/next.js/blob/canary/contributing/core/testing.md#writing-tests-for-nextjs)
+- Documentation added
+- Telemetry added. In case of a feature if it's used or not.
+- Errors have a helpful link attached, see
+https://github.com/vercel/next.js/blob/canary/contributing.md
+
+
+## For Maintainers
+
+- Minimal description (aim for explaining to someone not on the team to
+understand the PR)
+- When linking to a Slack thread, you might want to share details of the
+conclusion
+- Link both the Linear (Fixes NEXT-xxx) and the GitHub issues
+- Add review comments if necessary to explain to the reviewer the logic
+behind a change
+
+### What?
+
+### Why?
+
+### How?
+
+Closes NEXT-
+Fixes #
+
+--&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c2ba7e6</div>
+                                        <div class="message">Turbopack: fix over-invalidation of node.js assets (#57240)
+
+### What?
+
+* no need to clear require cache when assets where not used previously
+* make build status reporting more consistent
+* report build status to client side for build indicator
+
+### Why?
+
+### How?
+
+
+Closes WEB-1826</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6adb971</div>
+                                        <div class="message">Add CompilerAliases Type (#57237)
+
+Ensures all functions in create-compiler-aliases.ts have the same return type.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
@@ -2865,7 +3156,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.93m out of 127m repositories</span>
+                                    <span class="gh">ranked 1.94m out of 128m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 9 stars</div>
                             </div>
@@ -2992,7 +3283,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Oct 2023, 20:11:07 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Oct 2023, 21:25:45 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
