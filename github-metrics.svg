@@ -2972,7 +2972,7 @@ Closes WEB-1856</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 3.39m out of 124m users</span>
+                                    <span class="gh">ranked 3.52m out of 124m users</span>
                                 </div>
                                 <div class="text">Published 16 public repositories</div>
                             </div>
@@ -3201,7 +3201,7 @@ Closes WEB-1856</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.94m out of 88m repositories</span>
+                                    <span class="gh">ranked 1.94m out of 87.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 9 stars</div>
                             </div>
@@ -3328,7 +3328,7 @@ Closes WEB-1856</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Oct 2023, 04:10:07 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Oct 2023, 05:12:33 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
