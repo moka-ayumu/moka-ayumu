@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2241" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2557" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text,.gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.category,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.category{align-items:center;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -2341,6 +2341,431 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 40 commits in
+                                        <span class="repo">moka-ayumu/next.js</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">fix/create-next-app-dependency</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5998e6a</div>
+                                        <div class="message">examples: Update example with-Clerk (#57050)
+
+Co-authored-by: Lee Robinson &lt;me@leerob.io&gt;
+Co-authored-by: kodiakhq[bot] &lt;49736102+kodiakhq[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c380d91</div>
+                                        <div class="message">docs: fix broken link to demo (#57229)
+
+&lt;!-- Thanks for opening a PR! Your contribution is much appreciated.
+To make sure your PR is handled as smoothly as possible we request that
+you follow the checklist sections below.
+Choose the right checklist for the change(s) that you're making:
+
+## For Contributors
+
+### Improving Documentation
+
+- Run `pnpm prettier-fix` to fix formatting issues before opening the
+PR.
+- Read the Docs Contribution Guide to ensure your contribution follows
+the docs guidelines:
+https://nextjs.org/docs/community/contribution-guide
+
+### Adding or Updating Examples
+
+- The "examples guidelines" are followed from our contributing doc
+https://github.com/vercel/next.js/blob/canary/contributing/examples/adding-examples.md
+- Make sure the linting passes by running `pnpm build &amp;&amp; pnpm lint`. See
+https://github.com/vercel/next.js/blob/canary/contributing/repository/linting.md
+
+### Fixing a bug
+
+- Related issues linked using `fixes #number`
+- Tests added. See:
+https://github.com/vercel/next.js/blob/canary/contributing/core/testing.md#writing-tests-for-nextjs
+- Errors have a helpful link attached, see
+https://github.com/vercel/next.js/blob/canary/contributing.md
+
+### Adding a feature
+
+- Implements an existing feature request or RFC. Make sure the feature
+request has been accepted for implementation before opening a PR. (A
+discussion must be opened, see
+https://github.com/vercel/next.js/discussions/new?category=ideas)
+- Related issues/discussions are linked using `fixes #number`
+- e2e tests added
+(https://github.com/vercel/next.js/blob/canary/contributing/core/testing.md#writing-tests-for-nextjs)
+- Documentation added
+- Telemetry added. In case of a feature if it's used or not.
+- Errors have a helpful link attached, see
+https://github.com/vercel/next.js/blob/canary/contributing.md
+
+
+## For Maintainers
+
+- Minimal description (aim for explaining to someone not on the team to
+understand the PR)
+- When linking to a Slack thread, you might want to share details of the
+conclusion
+- Link both the Linear (Fixes NEXT-xxx) and the GitHub issues
+- Add review comments if necessary to explain to the reviewer the logic
+behind a change
+
+### What?
+
+### Why?
+
+### How?
+
+Closes NEXT-
+Fixes #
+
+--&gt;
+
+Nothing too crazy, just pointing the demo to the right URL. The previous
+URL is dead/unreachable.
+
+💖</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#27106a4</div>
+                                        <div class="message">Fix incorrect link in GTM docs (#57547)
+
+Previously options and link for tag manager refers to maps embed documentation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0bb6b56</div>
+                                        <div class="message">docs: fix 02-dynamic-routes.mdx (#57029)
+
+params from `{}` to `{ slug: [] }`.
+
+Fixes #57027</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fa100e2</div>
+                                        <div class="message">Update docs with a Good to know box about using redirect in client components (#56966)
+
+This adds a new `Good to know` box to explain how to programmatically
+redirect in Client Components to avoid people using `redirect` inside
+handlers.
+
+
+![image](https://github.com/vercel/next.js/assets/6494462/20858591-3d21-4a48-bbc9-8a1e0de29ca8)
+
+Co-authored-by: Lee Robinson &lt;me@leerob.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#423e945</div>
+                                        <div class="message">doc: Clarify built-in support for sass after installation (#57279)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8d45aa9</div>
+                                        <div class="message">update @types/react version in examples (#57259)
+
+### What?
+When I ran `npx create-next-app --example with-turbopack` and installed
+dependencies using `yarn`, I found an typescript error(`'SomeComponent'
+cannot be used as a JSX component.`).
+
+&lt;img
+src="https://github.com/vercel/next.js/assets/51700274/f6c7e478-c0b1-4ea2-996f-4c0c78e3bb4b"
+width=400 /&gt;
+
+and I realized that the bug is due to the version of
+@types/react(18.0.x).
+you can check this issue on
+[here](https://github.com/vercel/next.js/issues/42292#issuecomment-1594351684)
+too.
+
+### Why?
+It seems that there is an error occurring in the @types/react version
+18.0.x.
+
+### How?
+It would be good to change the @types/react version to 18.2.8 in the
+next.js examples.
+
+I think this change will resolve [this
+issue](https://github.com/vercel/next.js/issues/55080#issue-1884846177)
+[NestJS
+documentation](https://nextjs.org/docs/app/building-your-application/configuring/typescript#async-server-component-typescript-error)
+also states to upgrade the version.
+
+Co-authored-by: Lee Robinson &lt;me@leerob.io&gt;
+Co-authored-by: kodiakhq[bot] &lt;49736102+kodiakhq[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f538232</div>
+                                        <div class="message">docs(fix): example text unescaped entities (#57255)
+
+
+
+Fix bug in example code. Loading with `'` can not be built with the default ESLint rules: 
+```ssh
+./src/app/reviews/loading.tsx
+4:15  Error: `'` can be escaped with `&amp;apos;`, `&amp;lsquo;`, `&amp;#39;`, `&amp;rsquo;`.  react/no-unescaped-entities
+4:26  Error: `'` can be escaped with `&amp;apos;`, `&amp;lsquo;`, `&amp;#39;`, `&amp;rsquo;`.  react/no-unescaped-entities
+```</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#307bdcd</div>
+                                        <div class="message">(Examples) Add `with-google-maps-embed` example (#57365)
+
+Adds `with-google-maps-embed` example in `examples/` directory to show
+how to use the `&lt;GoogleMapsEmbed /&gt;` component from
+_@next/third-parties_.
+
+&lt;!-- Thanks for opening a PR! Your contribution is much appreciated.
+To make sure your PR is handled as smoothly as possible we request that
+you follow the checklist sections below.
+Choose the right checklist for the change(s) that you're making:
+
+## For Contributors
+
+### Improving Documentation
+
+- Run `pnpm prettier-fix` to fix formatting issues before opening the
+PR.
+- Read the Docs Contribution Guide to ensure your contribution follows
+the docs guidelines:
+https://nextjs.org/docs/community/contribution-guide
+
+### Adding or Updating Examples
+
+- The "examples guidelines" are followed from our contributing doc
+https://github.com/vercel/next.js/blob/canary/contributing/examples/adding-examples.md
+- Make sure the linting passes by running `pnpm build &amp;&amp; pnpm lint`. See
+https://github.com/vercel/next.js/blob/canary/contributing/repository/linting.md
+
+### Fixing a bug
+
+- Related issues linked using `fixes #number`
+- Tests added. See:
+https://github.com/vercel/next.js/blob/canary/contributing/core/testing.md#writing-tests-for-nextjs
+- Errors have a helpful link attached, see
+https://github.com/vercel/next.js/blob/canary/contributing.md
+
+### Adding a feature
+
+- Implements an existing feature request or RFC. Make sure the feature
+request has been accepted for implementation before opening a PR. (A
+discussion must be opened, see
+https://github.com/vercel/next.js/discussions/new?category=ideas)
+- Related issues/discussions are linked using `fixes #number`
+- e2e tests added
+(https://github.com/vercel/next.js/blob/canary/contributing/core/testing.md#writing-tests-for-nextjs)
+- Documentation added
+- Telemetry added. In case of a feature if it's used or not.
+- Errors have a helpful link attached, see
+https://github.com/vercel/next.js/blob/canary/contributing.md
+
+
+## For Maintainers
+
+- Minimal description (aim for explaining to someone not on the team to
+understand the PR)
+- When linking to a Slack thread, you might want to share details of the
+conclusion
+- Link both the Linear (Fixes NEXT-xxx) and the GitHub issues
+- Add review comments if necessary to explain to the reviewer the logic
+behind a change
+
+### What?
+
+### Why?
+
+### How?
+
+Closes NEXT-
+Fixes #
+
+--&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aaf668a</div>
+                                        <div class="message">(Examples) Add `with-youtube-embed` example (#57367)
+
+Adds `with-youtube-embed` example in `examples/` directory to show how
+to use the `&lt;YouTubeEmbed /&gt;` component from _@next/third-parties_.
+
+&lt;!-- Thanks for opening a PR! Your contribution is much appreciated.
+To make sure your PR is handled as smoothly as possible we request that
+you follow the checklist sections below.
+Choose the right checklist for the change(s) that you're making:
+
+## For Contributors
+
+### Improving Documentation
+
+- Run `pnpm prettier-fix` to fix formatting issues before opening the
+PR.
+- Read the Docs Contribution Guide to ensure your contribution follows
+the docs guidelines:
+https://nextjs.org/docs/community/contribution-guide
+
+### Adding or Updating Examples
+
+- The "examples guidelines" are followed from our contributing doc
+https://github.com/vercel/next.js/blob/canary/contributing/examples/adding-examples.md
+- Make sure the linting passes by running `pnpm build &amp;&amp; pnpm lint`. See
+https://github.com/vercel/next.js/blob/canary/contributing/repository/linting.md
+
+### Fixing a bug
+
+- Related issues linked using `fixes #number`
+- Tests added. See:
+https://github.com/vercel/next.js/blob/canary/contributing/core/testing.md#writing-tests-for-nextjs
+- Errors have a helpful link attached, see
+https://github.com/vercel/next.js/blob/canary/contributing.md
+
+### Adding a feature
+
+- Implements an existing feature request or RFC. Make sure the feature
+request has been accepted for implementation before opening a PR. (A
+discussion must be opened, see
+https://github.com/vercel/next.js/discussions/new?category=ideas)
+- Related issues/discussions are linked using `fixes #number`
+- e2e tests added
+(https://github.com/vercel/next.js/blob/canary/contributing/core/testing.md#writing-tests-for-nextjs)
+- Documentation added
+- Telemetry added. In case of a feature if it's used or not.
+- Errors have a helpful link attached, see
+https://github.com/vercel/next.js/blob/canary/contributing.md
+
+
+## For Maintainers
+
+- Minimal description (aim for explaining to someone not on the team to
+understand the PR)
+- When linking to a Slack thread, you might want to share details of the
+conclusion
+- Link both the Linear (Fixes NEXT-xxx) and the GitHub issues
+- Add review comments if necessary to explain to the reviewer the logic
+behind a change
+
+### What?
+
+### Why?
+
+### How?
+
+Closes NEXT-
+Fixes #
+
+--&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6a63c4f</div>
+                                        <div class="message">v14.0.1-canary.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ab83118</div>
+                                        <div class="message">Add missing dot in codemod command (#57536)
+
+Add missing dot in `next-og-import` codemod command
+
+```
+npx @next/codemod@latest next-og-import .
+```</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e93a35b</div>
+                                        <div class="message">update next/third-parties to use Next 14 or 13 as a peer dependency, instead of just 13 (#57515)
+
+Just tried to update to 14 but `next/third-parties` looks like it's still expecting us to be on Next 13
+
+```
+Error: npm ERR! code ERESOLVE
+npm ERR! ERESOLVE unable to resolve dependency tree
+npm ERR! 
+npm ERR! While resolving: shop-next@0.1.1
+npm ERR! Found: next@14.0.0
+npm ERR! node_modules/next
+npm ERR!   next@"^14.0.0" from the root project
+npm ERR! 
+npm ERR! Could not resolve dependency:
+npm ERR! peer next@"^13.0.0" from @next/third-parties@14.0.0
+npm ERR! node_modules/@next/third-parties
+npm ERR!   @next/third-parties@"^14.0.0" from the root project
+npm ERR! 
+npm ERR! Fix the upstream dependency conflict, or retry
+npm ERR! this command with --force or --legacy-peer-deps
+npm ERR! to accept an incorrect (and potentially broken) dependency resolution.
+npm ERR! 
+npm ERR! 
+npm ERR! For a full report see:
+npm ERR! /Users/XXXXXXXX/.npm/_logs/2023-10-26T17_27_38_736Z-eresolve-report.txt
+```</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#27bfd2d</div>
+                                        <div class="message">update manifest (#57523)
+
+update test manifest from daily test run
+
+Closes WEB-1889</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b9dd6c4</div>
+                                        <div class="message">Fix: Call cookies function from route to flag as dynamic (#57494)
+
+### What?
+
+Move calling the `cookies` function up to the route
+
+### Why?
+
+This flags the route as `dynamic`, meaning we don't need to explicitly declare `export const dynamic = 'force-dynamic'`
+
+### How?
+
+Passing the returned `cookieStore` into Supabase helper functions, rather than the `cookies` function itself</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b546d8b</div>
+                                        <div class="message">v14.0.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0bcba46</div>
+                                        <div class="message">fix publish script</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#92b4d67</div>
+                                        <div class="message">docs: Next.js 14 (#57342)
+
+- Fetch logging configuration is no longer experimental
+- Add `unstable_noStore` reference
+- Add `unstable_cache` reference
+- Add codemod docs for `next/og` import changes
+- Update docs around stable Server Actions
+- Add example of revalidating the entire data cache
+- Update static export docs for `next export` command removal
+- Update minimum required Node.js version
+- Add `viewport` and `generateViewport` reference
+
+Co-authored-by: Balázs Orbán &lt;18369201+balazsorban44@users.noreply.github.com&gt;
+Co-authored-by: Delba de Oliveira &lt;32464864+delbaoliveira@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fd0a96f</div>
+                                        <div class="message">Another lint fix for front (#57511)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cbfa126</div>
+                                        <div class="message">Fixes lint error on front (#57509)</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">moka-ayumu/moka-ayumu.github.io</span>
                                     </div>
@@ -2409,26 +2834,6 @@
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
                                         <div class="sha">#b234ad9</div>
-                                        <div class="message">init</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">moka-ayumu/moka-ayumu.github.io</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3e1b6e8</div>
                                         <div class="message">init</div>
                                     </div>
                                 </div>
@@ -2887,7 +3292,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.94m out of 84.5m repositories</span>
+                                    <span class="gh">ranked 1.94m out of 80.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 9 stars</div>
                             </div>
@@ -3014,7 +3419,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Oct 2023, 22:16:33 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Oct 2023, 23:12:47 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
