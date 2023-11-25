@@ -2861,7 +2861,7 @@ Co-authored-by: Rich Harris &lt;hello@rich-harris.dev&gt;</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.52m out of 125m users</span>
+                                    <span class="gh">ranked 2.52m out of 123m users</span>
                                 </div>
                                 <div class="text">Published 21 public repositories</div>
                             </div>
@@ -2980,7 +2980,7 @@ Co-authored-by: Rich Harris &lt;hello@rich-harris.dev&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 1.83m out of 125m users</span>
+                                    <span class="gh">ranked 1.83m out of 123m users</span>
                                 </div>
                                 <div class="text">Followed by 7 users</div>
                             </div>
@@ -3090,7 +3090,7 @@ Co-authored-by: Rich Harris &lt;hello@rich-harris.dev&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.96m out of 63.7m repositories</span>
+                                    <span class="gh">ranked 1.96m out of 68.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 9 stars</div>
                             </div>
@@ -3217,7 +3217,7 @@ Co-authored-by: Rich Harris &lt;hello@rich-harris.dev&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Nov 2023, 03:15:58 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Nov 2023, 04:10:20 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
