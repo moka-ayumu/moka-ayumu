@@ -2348,7 +2348,7 @@
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">feat-CCC-2648-message-automation-etc</span>
+                                        <span class="code">feat-CCC-2649-survey-agreement-etc</span>
                                         in
                                         <span class="repo">AlmSmartDoctor/mental-crm</span>
                                     </div>
@@ -2369,10 +2369,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">v2</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c544a8e</div>
-                                        <div class="message">feat: message automation etc. (#1485)
-
-Co-authored-by: Jaewoo Ahn &lt;80763190+s20200366@users.noreply.github.com&gt;</div>
+                                        <div class="sha">#6e7ddb8</div>
+                                        <div class="message">feat: survey agreement etc. (#1486)</div>
                                     </div>
                                 </div>
                             </section>
@@ -2385,12 +2383,12 @@ Co-authored-by: Jaewoo Ahn &lt;80763190+s20200366@users.noreply.github.com&gt;</
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#1485 feat: message automation etc.</span>
+                                        <span class="issue">#1486 feat: survey agreement etc.</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">AlmSmartDoctor/mental-crm</span></div>
-                                    <div>46 files changed <span class="code">++8927 --89</span></div>
+                                    <div>55 files changed <span class="code">++2570 --149</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2406,10 +2404,10 @@ Co-authored-by: Jaewoo Ahn &lt;80763190+s20200366@users.noreply.github.com&gt;</
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">feat-CCC-2648-message-automation-etc</span></div>
+                                    <div>on branch <span class="code">feat-CCC-2649-survey-agreement-etc</span></div>
                                     <div class="commit">
-                                        <div class="sha">#567199d</div>
-                                        <div class="message">feat: message automation etc.</div>
+                                        <div class="sha">#529d000</div>
+                                        <div class="message">feat: survey agreement etc.</div>
                                     </div>
                                 </div>
                             </section>
@@ -2422,12 +2420,12 @@ Co-authored-by: Jaewoo Ahn &lt;80763190+s20200366@users.noreply.github.com&gt;</
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#1485 feat: message automation etc.</span>
+                                        <span class="issue">#1486 feat: survey agreement etc.</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">AlmSmartDoctor/mental-crm</span></div>
-                                    <div>47 files changed <span class="code">++8932 --89</span></div>
+                                    <div>55 files changed <span class="code">++2562 --148</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2850,7 +2848,7 @@ Co-authored-by: Jaewoo Ahn &lt;80763190+s20200366@users.noreply.github.com&gt;</
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.27m out of 230m repositories</span>
+                                    <span class="gh">ranked 2.27m out of 231m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 9 stars</div>
                             </div>
@@ -2977,7 +2975,7 @@ Co-authored-by: Jaewoo Ahn &lt;80763190+s20200366@users.noreply.github.com&gt;</
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Dec 2024, 18:20:06 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Dec 2024, 19:20:14 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
