@@ -2693,7 +2693,7 @@ CCC-3072</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.43m out of 155m users</span>
+                                    <span class="gh">ranked 2.43m out of 156m users</span>
                                 </div>
                                 <div class="text">Published 25 public repositories</div>
                             </div>
@@ -2812,7 +2812,7 @@ CCC-3072</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 1.12m out of 155m users</span>
+                                    <span class="gh">ranked 1.12m out of 156m users</span>
                                 </div>
                                 <div class="text">Followed by 15 users</div>
                             </div>
@@ -2922,7 +2922,7 @@ CCC-3072</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.32m out of 239m repositories</span>
+                                    <span class="gh">ranked 2.32m out of 236m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 9 stars</div>
                             </div>
@@ -3049,7 +3049,7 @@ CCC-3072</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Feb 2025, 03:20:27 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Feb 2025, 04:13:19 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
