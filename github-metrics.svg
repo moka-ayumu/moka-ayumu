@@ -2378,7 +2378,7 @@
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="field error">API error: 502</div>
+                        <div class="field error">API error: 403</div>
                     </section>
                 </div>
             </section>
@@ -2402,7 +2402,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Nov 2026, 15:06:41 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 19 Nov 2026, 01:12:11 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
